@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"no",
+				"no-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolasvarnus/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/nicolasvarnus/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/Users/nicolasvarnus/rails_projects/demo_app/README.rdoc",
+		"/Users/nicolasvarnus/rails_projects/first_app/.git/config",
+		"/Users/nicolasvarnus/rails_projects/first_app/README.md",
+		"/Users/nicolasvarnus/Documents/work/templates/www.mauricelacroix.com/css/Global.css",
+		"/Users/nicolasvarnus/Documents/work/templates/www.mauricelacroix.com/index.html",
+		"/Users/nicolasvarnus/rails_projects/first_app/Gemfile",
+		"/Users/nicolasvarnus/Documents/work/prototype-deconstruction/test.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/finished-projects.html",
+		"/Users/nicolasvarnus/Project/ohcollective-website/index.html",
+		"/Users/nicolasvarnus/Documents/work/prototype-deconstruction/css/foundation.css",
+		"/Users/nicolasvarnus/Documents/work/winstonhuxley/winstonhuxley/index.html",
+		"/Users/nicolasvarnus/Documents/work/winstonhuxley/winstonhuxley/foundation/wp-content/themes/winstonhuxley/css/main.css",
+		"/Users/nicolasvarnus/Documents/work/winstonhuxley/winstonhuxley/foundation/wp-content/themes/winstonhuxley/css/menu.css",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/index.html",
+		"/Users/nicolasvarnus/Documents/work/prototype-deconstruction/index.html",
+		"/Users/nicolasvarnus/Documents/work/massage therapy/style/style.css",
+		"/Users/nicolasvarnus/Documents/work/winstonhuxley/winstonhuxley/foundation/wp-content/themes/winstonhuxley/css/home.css",
+		"/Users/nicolasvarnus/Project/ohcollective-website/sass/main.scss",
+		"/Users/nicolasvarnus/Documents/work/prototype-deconstruction/css/foundation.scss",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels.html",
+		"/Users/nicolasvarnus/Project/ohcollective-website/rester2.html",
+		"/Users/nicolasvarnus/Desktop/buzzcomi-responsive-html5-coming-soon-template-5082786/buzzcomi-responsive-html5-coming-soon-template-5082786/css/style1.css",
+		"/Users/nicolasvarnus/Desktop/buzzcomi-responsive-html5-coming-soon-template-5082786/buzzcomi-responsive-html5-coming-soon-template-5082786/index.html",
+		"/Users/nicolasvarnus/Desktop/CaptionHoverEffects/css/component.css",
+		"/Users/nicolasvarnus/Desktop/buzzcomi-responsive-html5-coming-soon-template-5082786/buzzcomi-responsive-html5-coming-soon-template-5082786/css/responsive.css",
+		"/Users/nicolasvarnus/Desktop/buzzcomi-responsive-html5-coming-soon-template-5082786/buzzcomi-responsive-html5-coming-soon-template-5082786/css/grid.css",
+		"/Users/nicolasvarnus/Desktop/ExpandingOverlayEffect/index.html",
+		"/Users/nicolasvarnus/Desktop/ExpandingOverlayEffect/css/component.css",
+		"/Users/nicolasvarnus/Desktop/ExpandingOverlayEffect/css/default.css",
+		"/Users/nicolasvarnus/Documents/work/massage therapy/index.html",
+		"/Users/nicolasvarnus/Documents/work/openhousecollective/ohcollective-website-master/index.html",
+		"/Users/nicolasvarnus/Documents/work/openhousecollective/ohcollective-website-master/css/font-awesome.css",
+		"/Users/nicolasvarnus/Documents/work/openhousecollective/ohcollective-website-master/sass/main.scss",
+		"/Users/nicolasvarnus/Documents/windebank/contact.html",
+		"/Users/nicolasvarnus/Documents/windebank/contact-us.html",
+		"/Users/nicolasvarnus/Desktop/medicenter/medicenter/themeforest-4000598-medicenter-responsive-medical-health-template/www/php/index.php",
+		"/Users/nicolasvarnus/Documents/windebank/process_form.php",
+		"/Users/nicolasvarnus/Documents/windebank/css/camera.css",
+		"/Users/nicolasvarnus/Documents/windebank/css/style.css",
+		"/Users/nicolasvarnus/Desktop/camera/demo/basic.htm",
+		"/Users/nicolasvarnus/Documents/windebank/completed-projects.html",
+		"/Users/nicolasvarnus/Documents/windebank/faq.html",
+		"/Users/nicolasvarnus/Documents/windebank/js/camera.js",
+		"/Users/nicolasvarnus/Documents/windebank/js/jquery.validate.js",
+		"/Users/nicolasvarnus/Documents/windebank/css/flexslider.css",
+		"/Users/nicolasvarnus/Documents/windebank/js/jquery.flexslider-min.js",
+		"/Users/nicolasvarnus/Documents/windebank/index-flex.html",
+		"/Users/nicolasvarnus/Documents/windebank/index.html",
+		"/Users/nicolasvarnus/Documents/windebank/about.html",
+		"/Users/nicolasvarnus/Documents/windebank/css/bootstrap-responsive.css",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/company-profile.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/about-us.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/contact-us.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/why-dynasty.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/css/jquery.dropdown.css",
+		"/Users/nicolasvarnus/Desktop/TooltipMenu/css/default.css",
+		"/Users/nicolasvarnus/Desktop/TooltipMenu/css/component.css",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/css/styles.css",
+		"/Users/nicolasvarnus/Desktop/TooltipMenu/index.html",
+		"/Users/nicolasvarnus/Desktop/style.css",
+		"/Users/nicolasvarnus/Documents/work/good luck truck/Good Luck Truck/contact-us.html",
+		"/Users/nicolasvarnus/Desktop/TooltipMenu/js/modernizr.custom.js",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/js/modernizr.custom.js",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd14w.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd-45.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd-39.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd-33.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd-30.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-sd-27.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-s14w.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-ef45d-fgf.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-ef44d-fgf.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/zero-clearance-electric-fireplace-ef43d-fgf.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-383-7.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-322.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-305.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-272.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-262.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-251.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-240.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-234-4.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fountains-ft-234-4-h180.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-york.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-victorian.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-springfield.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-rubens.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-richard.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-regent.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-queen.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-obama.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-mayfair.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-manchester.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-lyon.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-louver.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-louis.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-lagos.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-jupiter.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-dean.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-darwin.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-curve.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-claridge.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-chateau.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-big-mac.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-amenity.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-admantel.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/fireplace-mantels-3sidemantel.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef72-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef72-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef71-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef71-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef70-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef70-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef69-wgr.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef69-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef69-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef68-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef68-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-p.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-l.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-cp.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-cl.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dream-fires.html",
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dream-fires-dfs-g2.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"column",
+			"fonts.css",
+			"menu-side",
+			"display",
+			"ul",
+			"header",
+			"nav",
+			"md-intro",
+			"marker",
+			"grid_4",
+			"contact",
+			"hover",
+			"rb",
+			"font-family",
+			"pt sans",
+			"volkhov",
+			"header",
+			"h1",
+			"faq",
+			"1170",
+			"header",
+			"<div class=\"container clearfix\"> \n    \n    <!--row for doamin serach form starts-->\n    <div class=\"row\"> \n      \n      <!--column-->\n      <div class=\"span3\">\n        <h3 class=\"cursive\"><span class=\"color-orange\">Looking for a right domain?</span><br>\n          Register now.</h3>\n      </div>\n      \n      <!--form starts-->\n      <div class=\"span9\">\n        <form id=\"domainform\" method=\"get\" action=\"#\">\n          <fieldset>\n            <p>\n              <input name=\"domain\" type=\"text\" placeholder=\"Let's find your domain\">\n              <select name=\"subject\" class=\"select-field\">\n                <option value=\"com\">.com\n                </option><option value=\"net\">.net\n                </option><option value=\"org\">.org\n                </option><option value=\"info\">.info\n                </option><option value=\"biz\">.biz\n                </option><option value=\"me\">.me\n                </option><option value=\"mobi\">.mobi\n                </option><option value=\"name\">.name\n                </option><option value=\"co\">.co\n              </option></select>\n              <input type=\"submit\" value=\"I'm feelin lucky\" class=\"submit\">\n            </p>\n            <div id=\"subresult\"></div>\n          </fieldset>\n        </form>\n        <p> .com, .net, .org, .info, .biz, .me, .mobi, .name, .co</p>\n        <p><span class=\"color-green\"><strong>Congrats yourdomain.com is available!</strong></span></p>\n      </div>\n      <!--form ends--> \n      \n    </div>\n    <!--row for doamin serach form ends--> \n    \n  </div>",
+			"header",
+			"css",
+			"zero-clearance-electric-fireplace",
+			"top_left",
+			"body",
+			"index.html",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}
