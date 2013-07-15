@@ -39,6 +39,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<body>\n</body>\n</head>\n</html>\n",
+			"file": "app/views/welcome/index.html.erb",
+			"file_size": 20,
+			"file_write_time": 1373893819000000,
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,6 +83,9 @@
 	},
 	"file_history":
 	[
+		"/Users/nicolasvarnus/rails_projects/sample_app/public/index.html.erb",
+		"/Users/nicolasvarnus/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/nicolasvarnus/rails_projects/sample_app/app/views/welcome/index.html.erb",
 		"/Users/nicolasvarnus/rails_projects/demo_app/app/models/micropost.rb",
 		"/Users/nicolasvarnus/rails_projects/demo_app/app/controllers/microposts_controller.rb",
 		"/Users/nicolasvarnus/rails_projects/demo_app/README.rdoc",
@@ -188,10 +210,7 @@
 		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef68-l.html",
 		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-p.html",
 		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-l.html",
-		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-cp.html",
-		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-cl.html",
-		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dream-fires.html",
-		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dream-fires-dfs-g2.html"
+		"/Users/nicolasvarnus/Documents/work/Dynasty Fireplaces/dynasty-fireplaces/products/dynasty-fires-ef67-cp.html"
 	],
 	"find":
 	{
@@ -255,8 +274,63 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/welcome/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
